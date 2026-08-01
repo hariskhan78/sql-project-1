@@ -1,2 +1,2 @@
 # sql-project-1
-it's my first sql project in which i have solved some queries related to reallife business problems and analysis it's all about the pizza sales 
+it's my first sql project in which i have solved some queries related to reallife business problems and analysis it's all about the pizza sales im attaching ppt with queries and solution also attaching data i have worked on...
