@@ -1,2 +1,3 @@
 # sql-project-1
+for solution i have made a ppt file where a show my queriese in slides it better to read.
 it's my first sql project in which i have solved some queries related to reallife business problems and analysis it's all about the pizza sales im attaching ppt with queries and solution also attaching data i have worked on...
